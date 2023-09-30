@@ -2,8 +2,8 @@
 
 
 
-##Introduction
--Spam detection is a classification problem, where we want to train a model to predict whether an email is spam or not. Linear regression is a regression algorithm, which is typically used for predicting continuous values. However, it is possible to use linear regression for classification problems by converting the target variable (spam/not spam) to a continuous value.
+# #Introduction
+- Spam detection is a classification problem, where we want to train a model to predict whether an email is spam or not. Linear regression is a regression algorithm, which is typically used for predicting continuous values. However, it is possible to use linear regression for classification problems by converting the target variable (spam/not spam) to a continuous value.
 
 ##Data preparation
 -The first step is to prepare the data. This involves cleaning the data, removing any unnecessary features, and converting the target variable to a continuous value.
